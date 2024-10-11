@@ -1,0 +1,480 @@
+Bulls vs Nuggets
+Bulls wins
+Bulls vs Bucks
+Bulls wins
+Bulls vs Lakers
+Bulls wins
+Bulls vs Jazz
+Bulls wins
+Bulls vs Suns
+Bulls wins
+Bulls vs Bobcats
+Bulls wins
+Bulls vs Sonics
+Bulls wins
+Bulls vs Hawks
+Bulls wins
+Bulls vs Wizards
+Bulls wins
+Bulls vs Grizzlies
+Bulls wins
+Bulls vs Pistons
+Bulls wins
+Bulls vs Cavaliers
+Bulls wins
+Bulls vs Warriors
+Bulls wins
+Bulls vs Nets
+Bulls wins
+Bulls vs ataydaloglu
+ataydaloglu wins
+Nuggets vs Bulls
+Bulls wins
+Nuggets vs Bucks
+Bucks wins
+Nuggets vs Lakers
+Nuggets wins
+Nuggets vs Jazz
+Jazz wins
+Nuggets vs Suns
+Nuggets wins
+Nuggets vs Bobcats
+Nuggets wins
+Nuggets vs Sonics
+Nuggets wins
+Nuggets vs Hawks
+Hawks wins
+Nuggets vs Wizards
+Wizards wins
+Nuggets vs Grizzlies
+Nuggets wins
+Nuggets vs Pistons
+Pistons wins
+Nuggets vs Cavaliers
+Cavaliers wins
+Nuggets vs Warriors
+Warriors wins
+Nuggets vs Nets
+Nets wins
+Nuggets vs ataydaloglu
+ataydaloglu wins
+Bucks vs Bulls
+Bulls wins
+Bucks vs Nuggets
+Bucks wins
+Bucks vs Lakers
+Lakers wins
+Bucks vs Jazz
+Jazz wins
+Bucks vs Suns
+Bucks wins
+Bucks vs Bobcats
+Bucks wins
+Bucks vs Sonics
+Bucks wins
+Bucks vs Hawks
+Bucks wins
+Bucks vs Wizards
+Bucks wins
+Bucks vs Grizzlies
+Bucks wins
+Bucks vs Pistons
+Pistons wins
+Bucks vs Cavaliers
+Bucks wins
+Bucks vs Warriors
+Warriors wins
+Bucks vs Nets
+Nets wins
+Bucks vs ataydaloglu
+ataydaloglu wins
+Lakers vs Bulls
+Lakers wins
+Lakers vs Nuggets
+Lakers wins
+Lakers vs Bucks
+Lakers wins
+Lakers vs Jazz
+Lakers wins
+Lakers vs Suns
+Lakers wins
+Lakers vs Bobcats
+Lakers wins
+Lakers vs Sonics
+Lakers wins
+Lakers vs Hawks
+Lakers wins
+Lakers vs Wizards
+Lakers wins
+Lakers vs Grizzlies
+Lakers wins
+Lakers vs Pistons
+Lakers wins
+Lakers vs Cavaliers
+Lakers wins
+Lakers vs Warriors
+Warriors wins
+Lakers vs Nets
+Lakers wins
+Lakers vs ataydaloglu
+ataydaloglu wins
+Jazz vs Bulls
+Jazz wins
+Jazz vs Nuggets
+Jazz wins
+Jazz vs Bucks
+Jazz wins
+Jazz vs Lakers
+Jazz wins
+Jazz vs Suns
+Jazz wins
+Jazz vs Bobcats
+Jazz wins
+Jazz vs Sonics
+Jazz wins
+Jazz vs Hawks
+Jazz wins
+Jazz vs Wizards
+Jazz wins
+Jazz vs Grizzlies
+Jazz wins
+Jazz vs Pistons
+Jazz wins
+Jazz vs Cavaliers
+Jazz wins
+Jazz vs Warriors
+Jazz wins
+Jazz vs Nets
+Jazz wins
+Jazz vs ataydaloglu
+ataydaloglu wins
+Suns vs Bulls
+Bulls wins
+Suns vs Nuggets
+Nuggets wins
+Suns vs Bucks
+Bucks wins
+Suns vs Lakers
+Lakers wins
+Suns vs Jazz
+Jazz wins
+Suns vs Bobcats
+Bobcats wins
+Suns vs Sonics
+Sonics wins
+Suns vs Hawks
+Hawks wins
+Suns vs Wizards
+Wizards wins
+Suns vs Grizzlies
+Grizzlies wins
+Suns vs Pistons
+Pistons wins
+Suns vs Cavaliers
+Cavaliers wins
+Suns vs Warriors
+Warriors wins
+Suns vs Nets
+Nets wins
+Suns vs ataydaloglu
+ataydaloglu wins
+Bobcats vs Bulls
+Bulls wins
+Bobcats vs Nuggets
+Nuggets wins
+Bobcats vs Bucks
+Bucks wins
+Bobcats vs Lakers
+Lakers wins
+Bobcats vs Jazz
+Jazz wins
+Bobcats vs Suns
+Bobcats wins
+Bobcats vs Sonics
+Sonics wins
+Bobcats vs Hawks
+Hawks wins
+Bobcats vs Wizards
+Wizards wins
+Bobcats vs Grizzlies
+Grizzlies wins
+Bobcats vs Pistons
+Pistons wins
+Bobcats vs Cavaliers
+Cavaliers wins
+Bobcats vs Warriors
+Warriors wins
+Bobcats vs Nets
+Nets wins
+Bobcats vs ataydaloglu
+ataydaloglu wins
+Sonics vs Bulls
+Bulls wins
+Sonics vs Nuggets
+Sonics wins
+Sonics vs Bucks
+Bucks wins
+Sonics vs Lakers
+Lakers wins
+Sonics vs Jazz
+Jazz wins
+Sonics vs Suns
+Sonics wins
+Sonics vs Bobcats
+Sonics wins
+Sonics vs Hawks
+Hawks wins
+Sonics vs Wizards
+Wizards wins
+Sonics vs Grizzlies
+Grizzlies wins
+Sonics vs Pistons
+Pistons wins
+Sonics vs Cavaliers
+Cavaliers wins
+Sonics vs Warriors
+Warriors wins
+Sonics vs Nets
+Nets wins
+Sonics vs ataydaloglu
+ataydaloglu wins
+Hawks vs Bulls
+Bulls wins
+Hawks vs Nuggets
+Hawks wins
+Hawks vs Bucks
+Bucks wins
+Hawks vs Lakers
+Lakers wins
+Hawks vs Jazz
+Jazz wins
+Hawks vs Suns
+Hawks wins
+Hawks vs Bobcats
+Hawks wins
+Hawks vs Sonics
+Hawks wins
+Hawks vs Wizards
+Wizards wins
+Hawks vs Grizzlies
+Hawks wins
+Hawks vs Pistons
+Pistons wins
+Hawks vs Cavaliers
+Hawks wins
+Hawks vs Warriors
+Warriors wins
+Hawks vs Nets
+Nets wins
+Hawks vs ataydaloglu
+ataydaloglu wins
+Wizards vs Bulls
+Bulls wins
+Wizards vs Nuggets
+Wizards wins
+Wizards vs Bucks
+Bucks wins
+Wizards vs Lakers
+Wizards wins
+Wizards vs Jazz
+Wizards wins
+Wizards vs Suns
+Wizards wins
+Wizards vs Bobcats
+Wizards wins
+Wizards vs Sonics
+Wizards wins
+Wizards vs Hawks
+Wizards wins
+Wizards vs Grizzlies
+Wizards wins
+Wizards vs Pistons
+Pistons wins
+Wizards vs Cavaliers
+Cavaliers wins
+Wizards vs Warriors
+Wizards wins
+Wizards vs Nets
+Wizards wins
+Wizards vs ataydaloglu
+ataydaloglu wins
+Grizzlies vs Bulls
+Bulls wins
+Grizzlies vs Nuggets
+Grizzlies wins
+Grizzlies vs Bucks
+Bucks wins
+Grizzlies vs Lakers
+Lakers wins
+Grizzlies vs Jazz
+Jazz wins
+Grizzlies vs Suns
+Grizzlies wins
+Grizzlies vs Bobcats
+Grizzlies wins
+Grizzlies vs Sonics
+Sonics wins
+Grizzlies vs Hawks
+Hawks wins
+Grizzlies vs Wizards
+Wizards wins
+Grizzlies vs Pistons
+Pistons wins
+Grizzlies vs Cavaliers
+Cavaliers wins
+Grizzlies vs Warriors
+Warriors wins
+Grizzlies vs Nets
+Nets wins
+Grizzlies vs ataydaloglu
+ataydaloglu wins
+Pistons vs Bulls
+Bulls wins
+Pistons vs Nuggets
+Pistons wins
+Pistons vs Bucks
+Pistons wins
+Pistons vs Lakers
+Pistons wins
+Pistons vs Jazz
+Pistons wins
+Pistons vs Suns
+Pistons wins
+Pistons vs Bobcats
+Pistons wins
+Pistons vs Sonics
+Pistons wins
+Pistons vs Hawks
+Pistons wins
+Pistons vs Wizards
+Pistons wins
+Pistons vs Grizzlies
+Pistons wins
+Pistons vs Cavaliers
+Pistons wins
+Pistons vs Warriors
+Warriors wins
+Pistons vs Nets
+Pistons wins
+Pistons vs ataydaloglu
+ataydaloglu wins
+Cavaliers vs Bulls
+Cavaliers wins
+Cavaliers vs Nuggets
+Cavaliers wins
+Cavaliers vs Bucks
+Bucks wins
+Cavaliers vs Lakers
+Cavaliers wins
+Cavaliers vs Jazz
+Cavaliers wins
+Cavaliers vs Suns
+Cavaliers wins
+Cavaliers vs Bobcats
+Cavaliers wins
+Cavaliers vs Sonics
+Cavaliers wins
+Cavaliers vs Hawks
+Cavaliers wins
+Cavaliers vs Wizards
+Cavaliers wins
+Cavaliers vs Grizzlies
+Cavaliers wins
+Cavaliers vs Pistons
+Pistons wins
+Cavaliers vs Warriors
+Warriors wins
+Cavaliers vs Nets
+Cavaliers wins
+Cavaliers vs ataydaloglu
+ataydaloglu wins
+Warriors vs Bulls
+Warriors wins
+Warriors vs Nuggets
+Warriors wins
+Warriors vs Bucks
+Warriors wins
+Warriors vs Lakers
+Warriors wins
+Warriors vs Jazz
+Warriors wins
+Warriors vs Suns
+Warriors wins
+Warriors vs Bobcats
+Warriors wins
+Warriors vs Sonics
+Warriors wins
+Warriors vs Hawks
+Warriors wins
+Warriors vs Wizards
+Warriors wins
+Warriors vs Grizzlies
+Warriors wins
+Warriors vs Pistons
+Warriors wins
+Warriors vs Cavaliers
+Warriors wins
+Warriors vs Nets
+Warriors wins
+Warriors vs ataydaloglu
+ataydaloglu wins
+Nets vs Bulls
+Bulls wins
+Nets vs Nuggets
+Nets wins
+Nets vs Bucks
+Nets wins
+Nets vs Lakers
+Nets wins
+Nets vs Jazz
+Jazz wins
+Nets vs Suns
+Nets wins
+Nets vs Bobcats
+Nets wins
+Nets vs Sonics
+Nets wins
+Nets vs Hawks
+Nets wins
+Nets vs Wizards
+Nets wins
+Nets vs Grizzlies
+Nets wins
+Nets vs Pistons
+Nets wins
+Nets vs Cavaliers
+Nets wins
+Nets vs Warriors
+Warriors wins
+Nets vs ataydaloglu
+ataydaloglu wins
+ataydaloglu vs Bulls
+ataydaloglu wins
+ataydaloglu vs Nuggets
+ataydaloglu wins
+ataydaloglu vs Bucks
+ataydaloglu wins
+ataydaloglu vs Lakers
+ataydaloglu wins
+ataydaloglu vs Jazz
+ataydaloglu wins
+ataydaloglu vs Suns
+ataydaloglu wins
+ataydaloglu vs Bobcats
+ataydaloglu wins
+ataydaloglu vs Sonics
+ataydaloglu wins
+ataydaloglu vs Hawks
+ataydaloglu wins
+ataydaloglu vs Wizards
+ataydaloglu wins
+ataydaloglu vs Grizzlies
+ataydaloglu wins
+ataydaloglu vs Pistons
+ataydaloglu wins
+ataydaloglu vs Cavaliers
+ataydaloglu wins
+ataydaloglu vs Warriors
+ataydaloglu wins
+ataydaloglu vs Nets
+ataydaloglu wins

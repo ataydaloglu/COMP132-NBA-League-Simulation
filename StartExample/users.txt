@@ -1,0 +1,3 @@
+ataydaloglu,atay2004#,19,edaloglu@gmail.com,daloglu,atay
+dogancankiris,dogancan2004#,19,dogancan@gmail.com,kiris,dogancan
+erkintural,erkin2004#,20,erkin@gmail.com,tural,erkin

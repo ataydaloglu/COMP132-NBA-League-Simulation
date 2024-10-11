@@ -1,0 +1,16 @@
+Bulls: 24 wins, 6 losses.
+Nuggets: 7 wins, 23 losses.
+Bucks: 16 wins, 14 losses.
+Lakers: 19 wins, 11 losses.
+Jazz: 22 wins, 8 losses.
+Suns: 0 wins, 30 losses.
+Bobcats: 2 wins, 28 losses.
+Sonics: 6 wins, 24 losses.
+Hawks: 11 wins, 19 losses.
+Wizards: 16 wins, 14 losses.
+Grizzlies: 6 wins, 24 losses.
+Pistons: 21 wins, 9 losses.
+Cavaliers: 17 wins, 13 losses.
+Warriors: 25 wins, 5 losses.
+Nets: 18 wins, 12 losses.
+ataydaloglu: 30 wins, 0 losses.
